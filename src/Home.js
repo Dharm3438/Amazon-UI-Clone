@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <img
         src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Rakhi/GW/Hero/New/Pc_1x._CB409171045_.jpg"
-        alt="Banner Image"
+        alt="home"
         className="home__image"
       />
 
@@ -33,14 +33,14 @@ function Home() {
       <div className="home__row">
         <Product
           id="3"
-          title="Apple Watch Series 3 (GPS, 42mm) - Space Grey Aluminium Case with Black Sport Band"
+          title="Apple Watch Series 3 - Space Grey Aluminium Case"
           price={23900}
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/71EoGntO5bL._SL1500_.jpg"
         />
         <Product
           id="4"
-          title="Echo Dot (3rd Gen) – New and improved smart speaker with Alexa (Grey)"
+          title="Echo Dot – New smart speaker with Alexa"
           price={3499}
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/61RyEv5mnNL._SL1100_.jpg"
