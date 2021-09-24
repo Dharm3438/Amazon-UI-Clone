@@ -1,7 +1,7 @@
 # Amazon UI Clone
 This project is clone of Amazon UI. It was created using React and CSS. It uses [React Context API](https://reactjs.org/docs/context.html) to manage the states of products and simulating CRUD operations.
 
-- Demo: https://cl-eb715.firebaseapp.com/
+#### Demo: https://cl-eb715.firebaseapp.com/
 
 ### Tools used:
 - React & React-Context-API
